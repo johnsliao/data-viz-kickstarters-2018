@@ -1,14 +1,14 @@
 # CS544 Final Project 
+![Alt Text](https://i.imgur.com/wFksTzu.gif)
 
 ## Background
+- Data Visualization and analytics of Kick Starters in 2018
+- CS 544 Fall 2018 - Foundations of Analytics with R  | Boston University Metroplitan College  
 
-CS 544 Fall 2018 - Foundations of Analytics with R  
-Boston University Metroplitan College  
-
-## Selected data set
-Data Visualization of Kick Starters in 2018
-
-Download the data set from Kaggle [here](https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv)
+[Download the data set from Kaggle here](https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv)  
+[Download Presentation file here](Final_Liao.pptx)  
+[Download Video Presentation file here](Final_Liao.mp4)  
+[Download R script here](Final_Liao.r)  
 
 ## Project Specifications
 ### Picking the Data Set 
