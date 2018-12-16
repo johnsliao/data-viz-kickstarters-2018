@@ -6,7 +6,7 @@
 - CS 544 Fall 2018 - Foundations of Analytics with R  | Boston University Metroplitan College  
 
 [Download the data set from Kaggle here](https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv)  
-[Download Presentation file here](Final_Liao.pptx)  
+[Download Presentation file here](Final_Liao.pdf)  
 [Download Video Presentation file here](Final_Liao.mp4)  
 [Download R script here](Final_Liao.r)  
 
